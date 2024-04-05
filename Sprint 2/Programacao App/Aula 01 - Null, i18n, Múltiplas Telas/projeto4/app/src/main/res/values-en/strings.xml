@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_bom_dia">"Good morning "</string>
+    <string name="txt_boa_tarde">Good Afternoon</string>
+    <string name="app_name">projeto-4</string>
+</resources>

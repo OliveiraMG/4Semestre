@@ -1,0 +1,6 @@
+<resources>
+    <string name="txt_bom_dia">Bom dia</string>
+    <string name="txt_boa_tarde">Boa tarde</string>
+    <string name="app_name">projeto-4</string>
+    <string name="title_activity_tela2">Tela2</string>
+</resources>
